@@ -7,6 +7,8 @@ Vue.config.silent = TNS_ENV === "production";
 
 import RadRadialGauge from "nativescript-ui-gauge/vue";
 
+// fefe
+
 Vue.use(RadRadialGauge);
 
 new Vue({
